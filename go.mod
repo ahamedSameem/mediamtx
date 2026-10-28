@@ -105,3 +105,5 @@ require (
 	google.golang.org/protobuf v1.36.11 // indirect
 	gopkg.in/warnings.v0 v0.1.2 // indirect
 )
+
+replace github.com/datarhei/gosrt => github.com/ahamedSameem/gosrt v0.0.0-20261028123003-68f67c2ba7a5
